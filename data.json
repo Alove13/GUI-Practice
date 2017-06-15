@@ -1,0 +1,68 @@
+[
+     {
+       "type": "BYU Apartments",
+       "price": 350000,
+       "address": "Cougar Dog Place",
+       "description": "Super over-priced",
+       "details": {
+         "bedrooms": 1,
+         "bathrooms": 1
+       },
+       "image": "BYUApartments"
+     },
+     {
+        "type": "Heavenly Stairs",
+        "price": "00",
+        "address": "Righteous Life",
+        "description": "Golden lanes and Pearly Gates.",
+        "details": {
+         "bedrooms": 0,
+         "bathrooms": 0
+       },
+       "image": "heavenStairs"
+     },
+     {
+        "type": "Box",
+        "price": 2,
+        "address": "Anyhere",
+        "description": "Homeless",
+        "details": {
+         "bedrooms": 0,
+         "bathrooms": 0
+       },
+       "image": "box"
+    },
+    {
+        "type": "Cinderella Castle",
+        "price": 5000,
+        "address": "Dreamland",
+        "description": "Happily Ever After",
+        "details": {
+         "bedrooms": 25,
+         "bathrooms": 18
+       },
+       "image": "mansionCinderella"
+    },
+    {
+        "type": "Overloaded Mansion",
+        "price": 5500000,
+        "address": "Canyon Lane",
+        "description": "Acres of land surrounding love-mansion!",
+        "details": {
+         "bedrooms": 15,
+         "bathrooms": 6
+       },
+       "image": "mansionNight"
+    },
+    {
+        "type": "Mother Nature!",
+        "price": 1000000,
+        "address": "Earth",
+        "description": "Boom!",
+        "details": {
+         "bedrooms": 0,
+         "bathrooms": 0
+       },
+       "image": "volcano"
+    }
+]
